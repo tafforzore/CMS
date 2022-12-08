@@ -1,0 +1,9 @@
+.contenu .bloc{
+	display: inline-block;
+	border: solid 1px;
+}
+
+.contenu .bloc .contain-bloc{
+	display: inline-block;
+	float: left;
+}
